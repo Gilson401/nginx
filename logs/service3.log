@@ -1,0 +1,18 @@
+127.0.0.1 - - [26/Dec/2021:06:18:45 -0300] "GET / HTTP/1.0" 200 744 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62"
+127.0.0.1, Time:  [26/Dec/2021:06:44:25 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:09:22:36 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:11:06:51 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:11:10:04 -0300], Request: "GET /css/style.css HTTP/1.0" Status: 404
+127.0.0.1, Time:  [26/Dec/2021:11:10:45 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:11:16:14 -0300], Request: "GET /css/style.css HTTP/1.0" Status: 404
+127.0.0.1, Time:  [26/Dec/2021:12:11:07 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:12:11:57 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:12:12:47 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:12:15:15 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:13:12:15 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:14:01:21 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [26/Dec/2021:14:01:29 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [27/Dec/2021:08:19:00 -0300], Request: "GET /favicon.ico HTTP/1.0" Status: 404
+127.0.0.1, Time:  [27/Dec/2021:08:21:51 -0300], Request: "GET /favicon.ico HTTP/1.0" Status: 404
+127.0.0.1, Time:  [27/Dec/2021:08:22:04 -0300], Request: "GET / HTTP/1.0" Status: 200
+127.0.0.1, Time:  [27/Dec/2021:08:22:09 -0300], Request: "GET /css/style.css HTTP/1.0" Status: 404
